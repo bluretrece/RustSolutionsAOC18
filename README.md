@@ -1,4 +1,4 @@
-# Solutions to Advent of Code 2017 written in Rust.
+# Solutions to Advent of Code 2018 written in Rust.
 https://adventofcode.com/2018
 
 Solutions available: 
